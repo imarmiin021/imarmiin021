@@ -1,7 +1,7 @@
-- 👋 Hi, I’m armiin
-- 👀 I’m interested in web developing and video games and money
-- 🌱 I’m currently learning thomas mathematics 
-- 💞️ I’m looking to collaborate on my private website and youtube channel
+- 👋 Hi, I’m Armiin
+- 👀 I’m interested in programmering and video games and money
+- 🌱 I’m currently studyig computer engineering
+- 💞️ I’m looking to collaborate on my website geekha.ir
 - 📫 How to reach me? you can search for @imarmiin or @armiinthegeek in any platform
 
 <!---
